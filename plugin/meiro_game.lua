@@ -149,3 +149,10 @@ function M.start(level)
 end
 
 return M
+
+
+
+
+
+
+--デバック用メモ　f+spaceで通り抜けれるわﾋｬｯﾊ
