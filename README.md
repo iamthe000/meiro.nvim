@@ -6,7 +6,7 @@ Neovimの操作に慣れるための迷路ゲーム。
 
 ```lua
 {
-    "umekichi/meiro.nvim",
+    "iamthe000/meiro.nvim",
 }
 ```
 
